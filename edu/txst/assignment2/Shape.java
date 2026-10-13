@@ -5,6 +5,6 @@ package edu.txst.assignment2;
  * Each shape must be able to calculate its area and provide its class name.
  */
 public interface Shape {
-    double getArea(); // Method to calculate the area of the shape
-    String getClassName(); // Method to return the class name of the shape
+  double getArea(); // Method to calculate the area of the shape
+  String getClassName(); // Method to return the class name of the shape
 }
